@@ -26,6 +26,7 @@ This project develops and evaluates multiple machine learning models to predict 
 
 ### Distribution Plot
 - Found cholestrol level abnormal(value = 0), treated as missing value
+- Found possibility to do bin operation on some continous feature (`Age`, `Oldpeak`, `MaxHR`)
 
 ### Correlation Check
 - Generate Heatmap to check Multicolinearity, no high-correlated features found.
