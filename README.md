@@ -4,9 +4,9 @@ This project develops and evaluates multiple machine learning models to predict 
 
 ## Project Overview
 
-**Task**: Binary classification (Heart Disease: Yes / No)
-**Dataset**: Public heart disease dataset ([Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction))
-**Goal**:
+- **Task**: Binary classification (Heart Disease: Yes / No)
+- **Dataset**: Public heart disease dataset ([Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction))
+- **Goal**:
 1. Build accurate predictive models
 2. Compare different missing-value handling strategies
 3. Provide transparent, clinically interpretable explanations using SHAP
