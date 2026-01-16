@@ -66,4 +66,5 @@ To ensure interpretability and practical insight:
 - **Aggregated SHAP analysis**:
   - One-hot encoded categorical variables are grouped back to their original features
   - Enables intuitive interpretation of variables such as `ChestPainType`, `ST_Slope`, etc.
+- Feature interaction explored via SHAP dependence plots
 
